@@ -1,1 +1,12 @@
+# Node Modules
 node_modules/
+
+# OS
+.DS_Store
+
+# Prettier & Editor config
+.prettierrc.json
+.vscode/
+
+# Jest
+jest.config.js
